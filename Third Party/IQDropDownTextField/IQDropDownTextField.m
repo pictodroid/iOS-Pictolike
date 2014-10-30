@@ -2,8 +2,7 @@
 //  IQDropDownTextField.m
 //
 //  Created by Iftekhar on 19/10/13.
-//  Copyright (c) 2013 Iftekhar. All rights reserved.
-//
+//  Needs review
 
 #import "IQDropDownTextField.h"
 

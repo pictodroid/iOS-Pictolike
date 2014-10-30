@@ -3,7 +3,7 @@
 //  Star App
 //
 //  Created by Hoofar Pourzand on 08/10/14.
-//  Validation completition needs extension(?)
+//  Validation completition needs extension
 
 
 #import "PLUtility.h"

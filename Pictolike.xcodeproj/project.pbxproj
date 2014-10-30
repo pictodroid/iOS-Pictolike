@@ -1603,6 +1603,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Pictolike/Pictolike-Prefix.pch";
 				INFOPLIST_FILE = "Pictolike/Pictolike-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "344b2b31-a8f2-4ac6-9056-a65b75f91c62";
 				WRAPPER_EXTENSION = app;
@@ -1624,6 +1625,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Pictolike/Pictolike-Prefix.pch";
 				INFOPLIST_FILE = "Pictolike/Pictolike-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "344b2b31-a8f2-4ac6-9056-a65b75f91c62";
 				WRAPPER_EXTENSION = app;

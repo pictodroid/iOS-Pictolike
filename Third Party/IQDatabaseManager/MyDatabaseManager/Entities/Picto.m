@@ -3,7 +3,7 @@
 //  Pictolike
 //
 //  Created by Emil Izgin on 12/10/14.
-//
+//  Revision 1: Hoofar Pourzand 30/10/14.
 //
 
 #import "Picto.h"
